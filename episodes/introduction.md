@@ -1,5 +1,5 @@
 ---
-title: "Using Markdown"
+title: "Intro to Autodesk Fusion"
 teaching: 10
 exercises: 2
 ---
