@@ -18,7 +18,7 @@ carpentry: 'incubator'
 carpentry_description: 'Lesson Description'
 
 # Overall title for pages.
-title: 'Terman MakerBar's Intro to Autodesk Fusion'
+title: 'Terman MakerBar's Intro to Autodesk Fusion' 
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
 created: 2025-02-18
